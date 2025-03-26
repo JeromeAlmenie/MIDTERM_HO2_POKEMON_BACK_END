@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3RD YEAR (2nd SEM)\\IT Elective 3 - Mr. Alamo\\MIDTERM_POKEMON_REVISITED\\MIDTERM_HO2_POKEMON_BACK_END\\MIDTERM_HO3\\MIDTERM_HO3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE6D4C2-71FC-46A4-BF57-A5C59A174984}|MIDTERM_HO3.csproj|d:\\3rd year (2nd sem)\\it elective 3 - mr. alamo\\midterm_pokemon_revisited\\midterm_ho2_pokemon_back_end\\midterm_ho3\\midterm_ho3\\pokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE6D4C2-71FC-46A4-BF57-A5C59A174984}|MIDTERM_HO3.csproj|solutionrelative:pokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE6D4C2-71FC-46A4-BF57-A5C59A174984}|MIDTERM_HO3.csproj|d:\\3rd year (2nd sem)\\it elective 3 - mr. alamo\\midterm_pokemon_revisited\\midterm_ho2_pokemon_back_end\\midterm_ho3\\midterm_ho3\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE6D4C2-71FC-46A4-BF57-A5C59A174984}|MIDTERM_HO3.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE6D4C2-71FC-46A4-BF57-A5C59A174984}|MIDTERM_HO3.csproj|d:\\3rd year (2nd sem)\\it elective 3 - mr. alamo\\midterm_pokemon_revisited\\midterm_ho2_pokemon_back_end\\midterm_ho3\\midterm_ho3\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE6D4C2-71FC-46A4-BF57-A5C59A174984}|MIDTERM_HO3.csproj|solutionrelative:controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\3RD YEAR (2nd SEM)\\IT Elective 3 - Mr. Alamo\\MIDTERM_POKEMON_REVISITED\\MIDTERM_HO2_POKEMON_BACK_END\\MIDTERM_HO3\\MIDTERM_HO3\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\3RD YEAR (2nd SEM)\\IT Elective 3 - Mr. Alamo\\MIDTERM_POKEMON_REVISITED\\MIDTERM_HO2_POKEMON_BACK_END\\MIDTERM_HO3\\MIDTERM_HO3\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:39:16.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PokemonRepository.cs",
+              "DocumentMoniker": "D:\\3RD YEAR (2nd SEM)\\IT Elective 3 - Mr. Alamo\\MIDTERM_POKEMON_REVISITED\\MIDTERM_HO2_POKEMON_BACK_END\\MIDTERM_HO3\\MIDTERM_HO3\\PokemonRepository.cs",
+              "RelativeDocumentMoniker": "PokemonRepository.cs",
+              "ToolTip": "D:\\3RD YEAR (2nd SEM)\\IT Elective 3 - Mr. Alamo\\MIDTERM_POKEMON_REVISITED\\MIDTERM_HO2_POKEMON_BACK_END\\MIDTERM_HO3\\MIDTERM_HO3\\PokemonRepository.cs*",
+              "RelativeToolTip": "PokemonRepository.cs*",
+              "ViewState": "AgIAAIUBAAAAAAAAAAAwwKsBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:38:50.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokemonController.cs",
+              "DocumentMoniker": "D:\\3RD YEAR (2nd SEM)\\IT Elective 3 - Mr. Alamo\\MIDTERM_POKEMON_REVISITED\\MIDTERM_HO2_POKEMON_BACK_END\\MIDTERM_HO3\\MIDTERM_HO3\\Controllers\\PokemonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PokemonController.cs",
+              "ToolTip": "D:\\3RD YEAR (2nd SEM)\\IT Elective 3 - Mr. Alamo\\MIDTERM_POKEMON_REVISITED\\MIDTERM_HO2_POKEMON_BACK_END\\MIDTERM_HO3\\MIDTERM_HO3\\Controllers\\PokemonController.cs",
+              "RelativeToolTip": "Controllers\\PokemonController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:37:01.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
