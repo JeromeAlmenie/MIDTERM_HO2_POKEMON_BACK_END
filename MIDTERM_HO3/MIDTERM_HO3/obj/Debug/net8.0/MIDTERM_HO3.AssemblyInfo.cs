@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MIDTERM_HO3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8cb10c41b7682f7d2567f0f8338319757f48d18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9baee14aba54de11f17d44297dd5067b36db9638")]
 [assembly: System.Reflection.AssemblyProductAttribute("MIDTERM_HO3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MIDTERM_HO3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

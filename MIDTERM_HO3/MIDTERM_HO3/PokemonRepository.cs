@@ -514,6 +514,413 @@ namespace MIDTERM_HO3
                 Generation = "Generation-1",
                 id = 45,
             });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Parasect",
+                Type = "Bug/Grass",
+                Height = 1.0f,
+                Weight = 29.5f,
+                NextEvolution = "Parasect",
+                BaseEvolution = "Paras",
+                Generation = "Generation-1",
+                id = 46,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Venonat",
+                Type = "Bug/Grass",
+                Height = 1.0f,
+                Weight = 30.0f,
+                NextEvolution = "Venomoth",
+                BaseEvolution = "Venonat",
+                Generation = "Generation-1",
+                id = 47,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Venomoth",
+                Type = "Bug/Poison",
+                Height = 1.5f,
+                Weight = 12.5f,
+                NextEvolution = "Venomoth",
+                BaseEvolution = "Venonat",
+                Generation = "Generation-1",
+                id = 48,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Diglett",
+                Type = "Ground",
+                Height = 0.2f,
+                Weight = 0.8f,
+                NextEvolution = "Dugtrio",
+                BaseEvolution = "Diglett",
+                Generation = "Generation-1",
+                id = 49,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Dugtrio",
+                Type = "Ground",
+                Height = 0.7f,
+                Weight = 33.3f,
+                NextEvolution = "Dugtrio",
+                BaseEvolution = "Diglett",
+                Generation = "Generation-1",
+                id = 50,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Meowth",
+                Type = "Normal",
+                Height = 0.4f,
+                Weight = 4.2f,
+                NextEvolution = "Persian",
+                BaseEvolution = "Meowth",
+                Generation = "Generation-1",
+                id = 51,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Persian",
+                Type = "Normal",
+                Height = 0.4f,
+                Weight = 4.2f,
+                NextEvolution = "Persian",
+                BaseEvolution = "Meowth",
+                Generation = "Generation-1",
+                id = 52,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Psyduck",
+                Type = "Water",
+                Height = 0.8f,
+                Weight = 19.6f,
+                NextEvolution = "Golduck",
+                BaseEvolution = "Psyduck",
+                Generation = "Generation-1",
+                id = 53,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Golduck",
+                Type = "Water",
+                Height = 0.8f,
+                Weight = 19.6f,
+                NextEvolution = "Golduck",
+                BaseEvolution = "Psyduck",
+                Generation = "Generation-1",
+                id = 53,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Mankey",
+                Type = "Fighthing",
+                Height = 0.5f,
+                Weight = 28.0f,
+                NextEvolution = "Primeape",
+                BaseEvolution = "Mankey",
+                Generation = "Generation-1",
+                id = 54,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Primeape",
+                Type = "Fighthing",
+                Height = 1.0f,
+                Weight = 32.0f,
+                NextEvolution = "Annihilape",
+                BaseEvolution = "Mankey",
+                Generation = "Generation-1",
+                id = 55,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Growlithe",
+                Type = "Fire",
+                Height = 0.7f,
+                Weight = 19.0f,
+                NextEvolution = "Arcanine",
+                BaseEvolution = "Growlithe",
+                Generation = "Generation-1",
+                id = 56,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Arcanine",
+                Type = "Fire",
+                Height = 1.9f,
+                Weight = 155.0f,
+                NextEvolution = "Arcanine",
+                BaseEvolution = "Growlithe",
+                Generation = "Generation-1",
+                id = 56,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Poliwag",
+                Type = "Water",
+                Height = 0.6f,
+                Weight = 12.4f,
+                NextEvolution = "Poliwhirl",
+                BaseEvolution = "Poliwag",
+                Generation = "Generation-1",
+                id = 57,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Poliwhirl",
+                Type = "Water",
+                Height = 1.0f,
+                Weight = 20f,
+                NextEvolution = "Poliwhirl",
+                BaseEvolution = "Poliwag",
+                Generation = "Generation-1",
+                id = 58,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Poliwharth",
+                Type = "Water/Figthing",
+                Height = 1.0f,
+                Weight = 20f,
+                NextEvolution = "Poliwhirl",
+                BaseEvolution = "Poliwag",
+                Generation = "Generation-1",
+                id = 59,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Abra",
+                Type = "Physic",
+                Height = 0.9f,
+                Weight = 19.5f,
+                NextEvolution = "Kadabra",
+                BaseEvolution = "Abra",
+                Generation = "Generation-1",
+                id = 60,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Kadabra",
+                Type = "Physic",
+                Height = 0.9f,
+                Weight = 19.5f,
+                NextEvolution = "Alakazam",
+                BaseEvolution = "Abra",
+                Generation = "Generation-1",
+                id = 61,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Alakazam",
+                Type = "Physic",
+                Height = 0.9f,
+                Weight = 19.5f,
+                NextEvolution = "Alakazam",
+                BaseEvolution = "Abra",
+                Generation = "Generation-1",
+                id = 62,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Machop",
+                Type = "Fighting",
+                Height = 0.8f,
+                Weight = 19.5f,
+                NextEvolution = "Machoke",
+                BaseEvolution = "Machop",
+                Generation = "Generation-1",
+                id = 63,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Machoke",
+                Type = "Fighting",
+                Height = 1.5f,
+                Weight = 70.3f,
+                NextEvolution = "Machamp",
+                BaseEvolution = "Machop",
+                Generation = "Generation-1",
+                id = 64,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Machamp",
+                Type = "Fighting",
+                Height = 1.5f,
+                Weight = 70.3f,
+                NextEvolution = "Machamp",
+                BaseEvolution = "Machop",
+                Generation = "Generation-1",
+                id = 65,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Bellsprout",
+                Type = "Fighting",
+                Height = 0.7f,
+                Weight = 4.0f,
+                NextEvolution = "Weepinbell",
+                BaseEvolution = "Bellsprout",
+                Generation = "Generation-1",
+                id = 66,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Weepinbel",
+                Type = "Grass",
+                Height = 1.0f,
+                Weight = 6.4f,
+                NextEvolution = "Victreebel",
+                BaseEvolution = "Bellsprout",
+                Generation = "Generation-1",
+                id = 67,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Victreebe",
+                Type = "Grass",
+                Height = 1.7f,
+                Weight = 6.4f,
+                NextEvolution = "Victreebel",
+                BaseEvolution = "Bellsprout",
+                Generation = "Generation-1",
+                id = 68,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Tentacool",
+                Type = "Water/Poison",
+                Height = 0.9f,
+                Weight = 45.5f,
+                NextEvolution = "Tentacruel",
+                BaseEvolution = "Tentacool",
+                Generation = "Generation-1",
+                id = 69,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Tentacruel",
+                Type = "Water/Poison",
+                Height = 0.9f,
+                Weight = 45.5f,
+                NextEvolution = "Tentacruel",
+                BaseEvolution = "Tentacool",
+                Generation = "Generation-1",
+                id = 70,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Geodude",
+                Type = "Rock",
+                Height = 0.9f,
+                Weight = 45.5f,
+                NextEvolution = "Graveler",
+                BaseEvolution = "Geodude",
+                Generation = "Generation-1",
+                id = 71,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Graveler",
+                Type = "Rock",
+                Height = 0.9f,
+                Weight = 45.5f,
+                NextEvolution = "Golem",
+                BaseEvolution = "Geodude",
+                Generation = "Generation-1",
+                id = 72,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Golem",
+                Type = "Rock",
+                Height = 1.4f,
+                Weight = 300.0f,
+                NextEvolution = "Golem",
+                BaseEvolution = "Geodude",
+                Generation = "Generation-1",
+                id = 73,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Ponyta",
+                Type = "Fire",
+                Height = 1.0f,
+                Weight = 30.0f,
+                NextEvolution = "Rapidash",
+                BaseEvolution = "Ponyta",
+                Generation = "Generation-1",
+                id = 74,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Rapidash",
+                Type = "Fire",
+                Height = 1.7f,
+                Weight = 95.0f,
+                NextEvolution = "Rapidash",
+                BaseEvolution = "Ponyta",
+                Generation = "Generation-1",
+                id = 75,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Slowpoke",
+                Type = "Water",
+                Height = 1.7f,
+                Weight = 95.0f,
+                NextEvolution = "Slowbro/Slowking",
+                BaseEvolution = "Slowpoke",
+                Generation = "Generation-1",
+                id = 76,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Slowbro",
+                Type = "Water",
+                Height = 1.7f,
+                Weight = 95.0f,
+                NextEvolution = "Slowbro/Slowking",
+                BaseEvolution = "Slowpoke",
+                Generation = "Generation-1",
+                id = 77,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Magnemite",
+                Type = "Electric",
+                Height = 0.3f,
+                Weight = 6.0f,
+                NextEvolution = "Magneton",
+                BaseEvolution = "Magnamite",
+                Generation = "Generation-1",
+                id = 78,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Magneton",
+                Type = "Electric",
+                Height = 0.3f,
+                Weight = 6.0f,
+                NextEvolution = "Magneton",
+                BaseEvolution = "Magnamite",
+                Generation = "Generation-1",
+                id = 79,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Farfetch'd ",
+                Type = "Electric",
+                Height = 0.8f,
+                Weight = 15.0f,
+                NextEvolution = "N/A",
+                BaseEvolution = "N/A",
+                Generation = "Generation-1",
+                id = 80,
+            });
         }
         public static List<Pokemon> GetPokemonList()
         {
