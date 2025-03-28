@@ -921,6 +921,226 @@ namespace MIDTERM_HO3
                 Generation = "Generation-1",
                 id = 80,
             });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Doduo",
+                Type = "Normal/Flying",
+                Height = 0.8f,
+                Weight = 15.0f,
+                NextEvolution = "Dodrio",
+                BaseEvolution = "N/A",
+                Generation = "Generation-1",
+                id = 81,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Dodrio",
+                Type = "Normal/Flying",
+                Height = 0.8f,
+                Weight = 15.0f,
+                NextEvolution = "N/A",
+                BaseEvolution = "N/A",
+                Generation = "Generation-1",
+                id = 82,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Seel",
+                Type = "Water",
+                Height = 1.1f,
+                Weight = 90.0f,
+                NextEvolution = "Dewgong",
+                BaseEvolution = "N/A",
+                Generation = "Generation-1",
+                id = 83,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Dewgong",
+                Type = "Water",
+                Height = 1.7f,
+                Weight = 120.0f,
+                NextEvolution = "Dewgong",
+                BaseEvolution = "Seel",
+                Generation = "Generation-1",
+                id = 84,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Grimer",
+                Type = "Poison",
+                Height = 0.9f,
+                Weight = 30.0f,
+                NextEvolution = "Muk",
+                BaseEvolution = "Grimer",
+                Generation = "Generation-1",
+                id = 85,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Muk",
+                Type = "Poison",
+                Height = 0.9f,
+                Weight = 30.0f,
+                NextEvolution = "Muk",
+                BaseEvolution = "Grimer",
+                Generation = "Generation-1",
+                id = 86,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Shellder",
+                Type = "Poison",
+                Height = 0.3f,
+                Weight = 4.0f,
+                NextEvolution = "Muk",
+                BaseEvolution = "Grimer",
+                Generation = "Generation-1",
+                id = 87,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Cloyster",
+                Type = "Poison",
+                Height = 0.3f,
+                Weight = 4.0f,
+                NextEvolution = "Shellder",
+                BaseEvolution = "Grimer",
+                Generation = "Generation-1",
+                id = 88,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Glastly",
+                Type = "Ghost/Poison",
+                Height = 1.3f,
+                Weight = 0.1f,
+                NextEvolution = "Haunter",
+                BaseEvolution = "Gaslty",
+                Generation = "Generation-1",
+                id = 89,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Haunter",
+                Type = "Ghost/Poison",
+                Height = 1.6f,
+                Weight = 0.1f,
+                NextEvolution = "Genger",
+                BaseEvolution = "Gastly",
+                Generation = "Generation-1",
+                id = 90,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Gengar",
+                Type = "Ghost/Poison",
+                Height = 1.5f,
+                Weight = 40.5f,
+                NextEvolution = "Genger",
+                BaseEvolution = "Haunter",
+                Generation = "Generation-1",
+                id = 91,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Onix",
+                Type = "Rock/Ground",
+                Height = 8.8f,
+                Weight = 210.5f,
+                NextEvolution = "Steelix",
+                BaseEvolution = "N/A",
+                Generation = "Generation-1",
+                id = 92,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Drowzee",
+                Type = "Psychic",
+                Height = 1.0f,
+                Weight = 32.4f,
+                NextEvolution = "Hypno",
+                BaseEvolution = "N/A",
+                Generation = "Generation-1",
+                id = 93,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Hypno",
+                Type = "Psychic",
+                Height = 1.6f,
+                Weight = 75.6f,
+                NextEvolution = "Hypno",
+                BaseEvolution = "N/A",
+                Generation = "Generation-1",
+                id = 94,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Crabby",
+                Type = "Water",
+                Height = 0.4f,
+                Weight = 6.5f,
+                NextEvolution = "Kingler",
+                BaseEvolution = "N/A",
+                Generation = "Generation-1",
+                id = 95,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Kingler",
+                Type = "Water",
+                Height = 1.3f,
+                Weight = 60.5f,
+                NextEvolution = "Kingler",
+                BaseEvolution = "Krabby",
+                Generation = "Generation-1",
+                id = 96,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Voltorb",
+                Type = "Electric",
+                Height = 0.5f,
+                Weight = 10.4f,
+                NextEvolution = "Electrode",
+                BaseEvolution = "N/A",
+                Generation = "Generation-1",
+                id = 97,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Electrode",
+                Type = "Electric",
+                Height = 1.2f,
+                Weight = 66.6f,
+                NextEvolution = "Electrode",
+                BaseEvolution = "Voltrobe",
+                Generation = "Generation-1",
+                id = 98,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Exeggcute",
+                Type = "Grass/Psychic",
+                Height = 0.4f,
+                Weight = 2.5f,
+                NextEvolution = "Exeggutor",
+                BaseEvolution = "N/A",
+                Generation = "Generation-1",
+                id = 99,
+            });
+            pokemons.Add(new Pokemon
+            {
+                Name = "Exeggutor",
+                Type = "Grass/Psychic",
+                Height = 2.0f,
+                Weight = 120.0f,
+                NextEvolution = "Exeggutor",
+                BaseEvolution = "N/A",
+                Generation = "Generation-1",
+                id = 100,
+            });
         }
         public static List<Pokemon> GetPokemonList()
         {
